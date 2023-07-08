@@ -20,6 +20,7 @@
         padding: 0;
     }
     .about_section .about_img_2 { margin: -90px 0 0 150px; }
+    .about_img_2 { width: 60%; margin: -30px 0px 0px 150px; }
     .about_section .about_img_3 { margin: -175px 0 0 31px; }
     .company{
         padding-top: 40px;
